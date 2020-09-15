@@ -58,5 +58,5 @@ The task processor will run continuously, it can be stopped at any time by press
 
 To run the tests:
 
-npm run test
+- `npm run test`
 This will output a summary of test coverage in the console, and also create a html document in /coverage/index.html. You can view this html document to see which lines are covered by testing.
