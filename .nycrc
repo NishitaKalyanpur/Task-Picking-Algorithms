@@ -1,0 +1,19 @@
+{
+  "extension": [
+    ".ts"
+  ],
+  "reporter": [
+    "html",
+    "text-summary"
+  ],
+  "exclude": [
+    "dist/spec/**/*",
+    "src/index.ts",
+    "coverage/",
+    "spec/**/*",
+    "src/data/*",
+    "src/Config.ts"
+  ],
+  "all": true,
+  "sourceMap": true
+}
